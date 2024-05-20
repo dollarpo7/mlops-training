@@ -1,1 +1,1 @@
-# mlops-training
+# mlops-trainings
