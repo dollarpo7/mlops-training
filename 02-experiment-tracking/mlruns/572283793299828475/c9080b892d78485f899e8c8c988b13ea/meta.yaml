@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/572283793299828475/c9080b892d78485f899e8c8c988b13ea/artifacts
+end_time: 1717620324546
+entry_point_name: ''
+experiment_id: '572283793299828475'
+lifecycle_stage: active
+run_id: c9080b892d78485f899e8c8c988b13ea
+run_name: shivering-chimp-156
+run_uuid: c9080b892d78485f899e8c8c988b13ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620309717
+status: 3
+tags: []
+user_id: codespace

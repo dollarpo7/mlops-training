@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/9a38248a8c8147ecbcf6578745b96fea/artifacts
+end_time: 1717619788460
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 9a38248a8c8147ecbcf6578745b96fea
+run_name: secretive-zebra-241
+run_uuid: 9a38248a8c8147ecbcf6578745b96fea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619787882
+status: 3
+tags: []
+user_id: codespace

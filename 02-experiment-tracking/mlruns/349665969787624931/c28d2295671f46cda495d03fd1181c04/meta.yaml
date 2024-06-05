@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/c28d2295671f46cda495d03fd1181c04/artifacts
+end_time: 1717619832762
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: c28d2295671f46cda495d03fd1181c04
+run_name: adaptable-grouse-937
+run_uuid: c28d2295671f46cda495d03fd1181c04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619831795
+status: 3
+tags: []
+user_id: codespace

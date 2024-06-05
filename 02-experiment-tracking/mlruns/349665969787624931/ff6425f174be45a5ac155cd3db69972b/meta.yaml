@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/ff6425f174be45a5ac155cd3db69972b/artifacts
+end_time: 1717619829047
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: ff6425f174be45a5ac155cd3db69972b
+run_name: worried-kit-249
+run_uuid: ff6425f174be45a5ac155cd3db69972b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619825608
+status: 3
+tags: []
+user_id: codespace

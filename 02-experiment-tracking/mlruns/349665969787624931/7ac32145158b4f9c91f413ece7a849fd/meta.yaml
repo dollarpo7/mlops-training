@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/7ac32145158b4f9c91f413ece7a849fd/artifacts
+end_time: 1717619787874
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 7ac32145158b4f9c91f413ece7a849fd
+run_name: hilarious-zebra-13
+run_uuid: 7ac32145158b4f9c91f413ece7a849fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619787486
+status: 3
+tags: []
+user_id: codespace

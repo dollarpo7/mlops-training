@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/83a48bb82c444f979c0890699f2454b4/artifacts
+end_time: 1717619814745
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 83a48bb82c444f979c0890699f2454b4
+run_name: fun-shrimp-292
+run_uuid: 83a48bb82c444f979c0890699f2454b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619805927
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/mlops-training/02-experiment-tracking/mlruns/0/27199db8707e490099b27b9f36b42d61/artifacts
+end_time: 1717618357070
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 27199db8707e490099b27b9f36b42d61
+run_name: agreeable-skink-66
+run_uuid: 27199db8707e490099b27b9f36b42d61
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717618338693
+status: 3
+tags: []
+user_id: codespace

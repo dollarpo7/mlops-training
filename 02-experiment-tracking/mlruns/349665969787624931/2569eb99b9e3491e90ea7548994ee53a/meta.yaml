@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/2569eb99b9e3491e90ea7548994ee53a/artifacts
+end_time: 1717619831788
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 2569eb99b9e3491e90ea7548994ee53a
+run_name: smiling-mule-872
+run_uuid: 2569eb99b9e3491e90ea7548994ee53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619829055
+status: 3
+tags: []
+user_id: codespace

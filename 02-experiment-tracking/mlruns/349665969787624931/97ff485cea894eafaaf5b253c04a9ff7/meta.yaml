@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/97ff485cea894eafaaf5b253c04a9ff7/artifacts
+end_time: 1717619841063
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 97ff485cea894eafaaf5b253c04a9ff7
+run_name: big-quail-532
+run_uuid: 97ff485cea894eafaaf5b253c04a9ff7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619836071
+status: 3
+tags: []
+user_id: codespace

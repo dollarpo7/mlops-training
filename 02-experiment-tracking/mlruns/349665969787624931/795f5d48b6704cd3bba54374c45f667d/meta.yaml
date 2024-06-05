@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/795f5d48b6704cd3bba54374c45f667d/artifacts
+end_time: 1717619794003
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 795f5d48b6704cd3bba54374c45f667d
+run_name: hilarious-gnu-30
+run_uuid: 795f5d48b6704cd3bba54374c45f667d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619788468
+status: 3
+tags: []
+user_id: codespace

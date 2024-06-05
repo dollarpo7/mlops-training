@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/572283793299828475/42d1b9115b6d4b74a84da03fdab8cb91/artifacts
+end_time: 1717620356056
+entry_point_name: ''
+experiment_id: '572283793299828475'
+lifecycle_stage: active
+run_id: 42d1b9115b6d4b74a84da03fdab8cb91
+run_name: adventurous-deer-160
+run_uuid: 42d1b9115b6d4b74a84da03fdab8cb91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620346015
+status: 3
+tags: []
+user_id: codespace

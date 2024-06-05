@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/572283793299828475/285c7f05ae124ffc9ef6501158816368/artifacts
+end_time: 1717620335179
+entry_point_name: ''
+experiment_id: '572283793299828475'
+lifecycle_stage: active
+run_id: 285c7f05ae124ffc9ef6501158816368
+run_name: clumsy-moose-792
+run_uuid: 285c7f05ae124ffc9ef6501158816368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717620324560
+status: 3
+tags: []
+user_id: codespace

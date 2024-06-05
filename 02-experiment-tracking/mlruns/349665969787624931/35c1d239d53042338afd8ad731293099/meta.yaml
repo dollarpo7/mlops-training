@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/35c1d239d53042338afd8ad731293099/artifacts
+end_time: 1717619821036
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 35c1d239d53042338afd8ad731293099
+run_name: adventurous-rat-15
+run_uuid: 35c1d239d53042338afd8ad731293099
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619815701
+status: 3
+tags: []
+user_id: codespace

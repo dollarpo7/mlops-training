@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/349665969787624931/625be80da7cd4b3ab9e55014bf15cf64/artifacts
+end_time: 1717619836063
+entry_point_name: ''
+experiment_id: '349665969787624931'
+lifecycle_stage: active
+run_id: 625be80da7cd4b3ab9e55014bf15cf64
+run_name: clean-penguin-43
+run_uuid: 625be80da7cd4b3ab9e55014bf15cf64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717619832772
+status: 3
+tags: []
+user_id: codespace
